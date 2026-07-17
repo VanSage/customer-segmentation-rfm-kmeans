@@ -1,5 +1,5 @@
 # 📊 Customer Segmentation using RFM Analysis & K-Means Clustering
-
+ 
 > Transforming retail transaction data into actionable customer insights through data analytics and machine learning.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
